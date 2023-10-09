@@ -1,2 +1,2 @@
 # WE_1
-Just Exercising
+Just Exercising web
